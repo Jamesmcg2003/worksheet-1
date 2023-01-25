@@ -1,10 +1,11 @@
-﻿namespace q2
+﻿namespace q1
+
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("lets go again ");
         }
-    }   static private void 
+    }   
 }
